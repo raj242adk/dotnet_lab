@@ -1,0 +1,73 @@
+﻿@page
+@model webformdisplay.Pages.AboutModel
+
+<h2>Registration Form</h2>
+<form method="post">
+    <label for="username">Username:</label>
+    <input type="text" id="username" name="username"><br><br>
+
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password"><br><br>
+
+    <label for="repassword">Re-enter Password:</label>
+    <input type="password" id="repassword" name="repassword"><br><br>
+
+    <label>Gender:</label>
+    <input type="radio" id="male" name="gender" value="Male">
+    <label for="male">Male</label>
+    <input type="radio" id="female" name="gender" value="Female">
+    <label for="female">Female</label><br><br>
+
+    <label>Courses:</label>
+    <input type="checkbox" id="math" name="course" value="Math">
+    <label for="math">Math</label>
+    <input type="checkbox" id="science" name="course" value="Science">
+    <label for="science">Science</label>
+    <input type="checkbox" id="history" name="course" value="History">
+    <label for="history">History</label><br><br>
+
+    <label for="country">Country:</label>
+    <select id="country" name="country">
+        <option value="" disabled selected>Select Country</option>
+        <option value="Nepal">Nepal</option>
+        <option value="India">India</option>
+        <!-- Add more countries as needed -->
+    </select><br><br>
+
+    <input type="submit" value="Submit">
+</form>
+
+@if (Model.hasData)
+{
+    <h2>Entered Data</h2>
+    <table>
+        <tr>
+            <th>Field</th>
+            <th>Value</th>
+        </tr>
+        <tr>
+            <td>Username</td>
+            <td>@Model.username</td>
+        </tr>
+        <tr>
+            <td>Password</td>
+            <td>@Model.password</td>
+        </tr>
+        <tr>
+            <td>Re-enter Password</td>
+            <td>@Model.repassword</td>
+        </tr>
+        <tr>
+            <td>Gender</td>
+            <td>@Model.gender</td>
+        </tr>
+        <tr>
+            <td>Courses</td>
+            <td>@string.Join(", ", Model.course)</td>
+        </tr>
+        <tr>
+            <td>Country</td>
+            <td>@Model.country</td>
+        </tr>
+    </table>
+}

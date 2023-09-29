@@ -1,0 +1,44 @@
+﻿<style>
+    label, input {
+        display: block;
+    }
+</style>
+@model Student
+
+<h1>Update Student Form</h1>
+
+<form asp-controller="Update" asp-action="Edit" method="post">
+
+    <div>
+        <label asp-for="Id">Id</label>
+        <input type="text" asp-for="Id" />
+        <span asp-validation-for="Id"></span>
+    </div>
+
+    <div>
+        <label asp-for="Name">Name</label>
+        <input type="text" asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+    </div>
+
+    <div>
+        <label asp-for="Gender">Gender</label>
+        <input type="text" asp-for="Gender" />
+        <span asp-validation-for="Gender"></span>
+    </div>
+  
+
+    <div>
+        <label asp-for="Faculty">Faculty</label>
+        <input type="text" asp-for="Faculty" />
+        <span asp-validation-for="Faculty"></span>
+    </div>
+
+    <div>
+        <label asp-for="Grade">Grade</label>
+        <input type="text" asp-for="Grade" />
+        <span asp-validation-for="Grade"></span>
+    </div>
+
+    <input type="submit" />
+</form>

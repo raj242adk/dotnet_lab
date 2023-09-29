@@ -1,0 +1,44 @@
+﻿@page
+@model FormRegister.Pages.DisplayModel
+@{
+}
+
+
+<h1>Submitted Data</h1>
+
+<table>
+    <tr>
+        <th>Field</th>
+        <th>Value</th>
+    </tr>
+    <tr>
+        <td>Username:</td>
+        <td>@HttpContext.Session.GetString("Username")</td>
+    </tr>
+    <tr>
+        <td>Password:</td>
+        <td>@HttpContext.Session.GetString("Password")</td>
+    </tr>
+    <tr>
+        <td>Re-Password:</td>
+        <td>@HttpContext.Session.GetString("Repassword")</td>
+    </tr>
+    <tr>
+        <td>Gender:</td>
+        <td>@HttpContext.Session.GetString("Gender")</td>
+    </tr>
+    <tr>
+        <td>Course:</td>
+        <td>
+            @foreach (var course in HttpContext.Session.GetString("Course"))
+            {
+                @course<br />
+            }
+        </td>
+    </tr>
+    <tr>
+        <td>Country:</td>
+        <td>@HttpContext.Session.GetString("Country")</td>
+    </tr>
+</table>
+

@@ -1,0 +1,36 @@
+﻿@page
+@model formValidation.Pages.formModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Subtraction Form</title>
+</head>
+<body>
+    <div>
+        <form method="post">
+            <div class="form-group">
+                <label asp-for="firstNumber">Enter first number:</label>
+                <input asp-for="firstNumber" class="form-control" name="firstNumber" />
+                <span asp-validation-for="firstNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="secondNumber">Enter second number:</label>
+                <input asp-for="secondNumber" class="form-control" name="secondNumber" />
+                <span asp-validation-for="secondNumber" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-primary">Calculate</button>
+        </form>
+
+
+        @if (!string.IsNullOrEmpty(Model.Result))
+        {
+            <p>@Model.Result</p>
+            <div>
+                <label>The Result is:</label>
+                <input type="text" id="txtResult" name="txtResult" value="@Model.Result" readonly />
+            </div>
+        }
+    </div>
+</body>
+</html>

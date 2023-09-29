@@ -1,0 +1,14 @@
+D:\DotNetLab\LabNoOne\bin\Debug\net6.0\LabNoOne.exe
+D:\DotNetLab\LabNoOne\bin\Debug\net6.0\LabNoOne.deps.json
+D:\DotNetLab\LabNoOne\bin\Debug\net6.0\LabNoOne.runtimeconfig.json
+D:\DotNetLab\LabNoOne\bin\Debug\net6.0\LabNoOne.dll
+D:\DotNetLab\LabNoOne\bin\Debug\net6.0\LabNoOne.pdb
+D:\DotNetLab\LabNoOne\obj\Debug\net6.0\LabNoOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetLab\LabNoOne\obj\Debug\net6.0\LabNoOne.AssemblyInfoInputs.cache
+D:\DotNetLab\LabNoOne\obj\Debug\net6.0\LabNoOne.AssemblyInfo.cs
+D:\DotNetLab\LabNoOne\obj\Debug\net6.0\LabNoOne.csproj.CoreCompileInputs.cache
+D:\DotNetLab\LabNoOne\obj\Debug\net6.0\LabNoOne.dll
+D:\DotNetLab\LabNoOne\obj\Debug\net6.0\refint\LabNoOne.dll
+D:\DotNetLab\LabNoOne\obj\Debug\net6.0\LabNoOne.pdb
+D:\DotNetLab\LabNoOne\obj\Debug\net6.0\LabNoOne.genruntimeconfig.cache
+D:\DotNetLab\LabNoOne\obj\Debug\net6.0\ref\LabNoOne.dll

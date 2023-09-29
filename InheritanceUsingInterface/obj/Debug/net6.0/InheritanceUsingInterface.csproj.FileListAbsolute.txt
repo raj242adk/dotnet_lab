@@ -1,0 +1,14 @@
+D:\DotNetLab\InheritanceUsingInterface\obj\Debug\net6.0\InheritanceUsingInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetLab\InheritanceUsingInterface\obj\Debug\net6.0\InheritanceUsingInterface.AssemblyInfoInputs.cache
+D:\DotNetLab\InheritanceUsingInterface\obj\Debug\net6.0\InheritanceUsingInterface.AssemblyInfo.cs
+D:\DotNetLab\InheritanceUsingInterface\obj\Debug\net6.0\InheritanceUsingInterface.csproj.CoreCompileInputs.cache
+D:\DotNetLab\InheritanceUsingInterface\bin\Debug\net6.0\InheritanceUsingInterface.exe
+D:\DotNetLab\InheritanceUsingInterface\bin\Debug\net6.0\InheritanceUsingInterface.deps.json
+D:\DotNetLab\InheritanceUsingInterface\bin\Debug\net6.0\InheritanceUsingInterface.runtimeconfig.json
+D:\DotNetLab\InheritanceUsingInterface\bin\Debug\net6.0\InheritanceUsingInterface.dll
+D:\DotNetLab\InheritanceUsingInterface\bin\Debug\net6.0\InheritanceUsingInterface.pdb
+D:\DotNetLab\InheritanceUsingInterface\obj\Debug\net6.0\InheritanceUsingInterface.dll
+D:\DotNetLab\InheritanceUsingInterface\obj\Debug\net6.0\refint\InheritanceUsingInterface.dll
+D:\DotNetLab\InheritanceUsingInterface\obj\Debug\net6.0\InheritanceUsingInterface.pdb
+D:\DotNetLab\InheritanceUsingInterface\obj\Debug\net6.0\InheritanceUsingInterface.genruntimeconfig.cache
+D:\DotNetLab\InheritanceUsingInterface\obj\Debug\net6.0\ref\InheritanceUsingInterface.dll

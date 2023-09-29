@@ -1,0 +1,14 @@
+D:\DotNetLab\Overloading\bin\Debug\net6.0\Overloading.exe
+D:\DotNetLab\Overloading\bin\Debug\net6.0\Overloading.deps.json
+D:\DotNetLab\Overloading\bin\Debug\net6.0\Overloading.runtimeconfig.json
+D:\DotNetLab\Overloading\bin\Debug\net6.0\Overloading.dll
+D:\DotNetLab\Overloading\bin\Debug\net6.0\Overloading.pdb
+D:\DotNetLab\Overloading\obj\Debug\net6.0\Overloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetLab\Overloading\obj\Debug\net6.0\Overloading.AssemblyInfoInputs.cache
+D:\DotNetLab\Overloading\obj\Debug\net6.0\Overloading.AssemblyInfo.cs
+D:\DotNetLab\Overloading\obj\Debug\net6.0\Overloading.csproj.CoreCompileInputs.cache
+D:\DotNetLab\Overloading\obj\Debug\net6.0\Overloading.dll
+D:\DotNetLab\Overloading\obj\Debug\net6.0\refint\Overloading.dll
+D:\DotNetLab\Overloading\obj\Debug\net6.0\Overloading.pdb
+D:\DotNetLab\Overloading\obj\Debug\net6.0\Overloading.genruntimeconfig.cache
+D:\DotNetLab\Overloading\obj\Debug\net6.0\ref\Overloading.dll

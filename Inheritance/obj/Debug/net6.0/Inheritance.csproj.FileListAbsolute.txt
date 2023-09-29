@@ -1,0 +1,14 @@
+D:\DotNetLab\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetLab\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+D:\DotNetLab\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+D:\DotNetLab\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\DotNetLab\Inheritance\bin\Debug\net6.0\Inheritance.exe
+D:\DotNetLab\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+D:\DotNetLab\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+D:\DotNetLab\Inheritance\bin\Debug\net6.0\Inheritance.dll
+D:\DotNetLab\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+D:\DotNetLab\Inheritance\obj\Debug\net6.0\Inheritance.dll
+D:\DotNetLab\Inheritance\obj\Debug\net6.0\refint\Inheritance.dll
+D:\DotNetLab\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+D:\DotNetLab\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
+D:\DotNetLab\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll

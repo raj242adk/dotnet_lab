@@ -1,0 +1,34 @@
+﻿@model List<OfficersApp.Models.Officer>
+@{
+}
+
+<h1>Officer List</h1>
+
+<table class="table">
+
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Gender</th>
+            <th>Phone</th>
+            <th>Department</th>
+            <th>Position</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var officer in Model)
+        {
+            <tr>
+                <td>@officer.Id</td>
+                <td>@officer.Name</td>
+                <td>@officer.Gender</td>
+                <td>@officer.Phone</td>
+                <td>@officer.Department</td>
+                <td>@officer.Position</td>
+                <td><a href="Officer/View/@officer.Id">View</a></td>
+
+            </tr> 
+        }
+    </tbody>
+</table>

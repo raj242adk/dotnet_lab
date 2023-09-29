@@ -1,0 +1,14 @@
+D:\DotNetLab\AbstractClass\bin\Debug\net6.0\AbstractClass.exe
+D:\DotNetLab\AbstractClass\bin\Debug\net6.0\AbstractClass.deps.json
+D:\DotNetLab\AbstractClass\bin\Debug\net6.0\AbstractClass.runtimeconfig.json
+D:\DotNetLab\AbstractClass\bin\Debug\net6.0\AbstractClass.dll
+D:\DotNetLab\AbstractClass\bin\Debug\net6.0\AbstractClass.pdb
+D:\DotNetLab\AbstractClass\obj\Debug\net6.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetLab\AbstractClass\obj\Debug\net6.0\AbstractClass.AssemblyInfoInputs.cache
+D:\DotNetLab\AbstractClass\obj\Debug\net6.0\AbstractClass.AssemblyInfo.cs
+D:\DotNetLab\AbstractClass\obj\Debug\net6.0\AbstractClass.csproj.CoreCompileInputs.cache
+D:\DotNetLab\AbstractClass\obj\Debug\net6.0\AbstractClass.dll
+D:\DotNetLab\AbstractClass\obj\Debug\net6.0\refint\AbstractClass.dll
+D:\DotNetLab\AbstractClass\obj\Debug\net6.0\AbstractClass.pdb
+D:\DotNetLab\AbstractClass\obj\Debug\net6.0\AbstractClass.genruntimeconfig.cache
+D:\DotNetLab\AbstractClass\obj\Debug\net6.0\ref\AbstractClass.dll
